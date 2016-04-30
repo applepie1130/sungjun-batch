@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.sungjun</groupId>
+	<groupId>sungjun-batch</groupId>
 	<artifactId>com.sungjun</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>sungjun-batch</name>
-	<description>Batch project for Spring Boot</description>
+	<description>Batch project wit Spring Batch Library</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
